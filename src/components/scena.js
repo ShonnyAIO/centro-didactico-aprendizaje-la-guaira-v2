@@ -96,7 +96,7 @@ export default function Scene() {
                     showFullscreenCtrl={false}
                     showZoomCtrl={false}
                     orientationOnByDefault={true}
-                    hotspotDebug={true}
+                    hotspotDebug={false}
                     draggable={true}
                     onRender={() => { updateStyle(); }}
                 >
