@@ -1,0 +1,361 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.return-recorrido {
+    position: absolute;
+    background-color: #fff;
+    text-align: center;
+    top: 5px;
+    left: 5px;
+    height: 25px;
+    width: 25px;
+    padding: 0.5em;
+    border: none;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.next-recorrido {
+    position: absolute;
+    background-color: #fff;
+    text-align: center;
+    top: 60px;
+    left: 5px;
+    height: 25px;
+    width: 25px;
+    padding: 0.5em;
+    border: none;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.reset-recorrido {
+    position: absolute;
+    background-color: #fff;
+    text-align: center;
+    top: 120px;
+    left: 5px;
+    height: 25px;
+    width: 25px;
+    padding: 0.5em;
+    border: none;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.moveScene_recorrido_completo::after {
+    content: "Recorrido \A Completo";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -10px;
+    color: #fff;
+}
+
+.moveScene_Metodologia::after {
+    content: "   Sala de \A Metodología";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -12px;
+    color: #fff;
+}
+
+.moveScene_Quimica::after {
+    content: "Laboratorio \A de Biología";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -15px;
+    color: #fff;
+}
+
+.moveScene_Lectura::after {
+    content: "    Sala de \A     Lectura";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -15px;
+    color: #fff;
+}
+
+.moveScene_Fisica::after {
+    content: "Laboratorio \A de Física";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -15px;
+    color: #fff;
+}
+
+.moveScene_Robotica::after {
+    content: "Laboratorio \A de Robótica";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -15px;
+    color: #fff;
+}
+
+.moveScene_Astronauta::after {
+    content: "Astronauta";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -15px;
+    color: #fff;
+}
+
+.moveScene_Maritima::after {
+    content: "Marítima";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -5px;
+    color: #fff;
+}
+
+.moveScene_Acuatica::after {
+    content: "Acuática";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -5px;
+    color: #fff;
+}
+
+.moveScene_Satelital::after {
+    content: "Satelital";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -5px;
+    color: #fff;
+}
+
+.moveScene_Satelital2::after {
+    content: "Cámara";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -5px;
+    color: #fff;
+}
+
+.moveScene_4_Puntos::after {
+    content: "4 Puntos";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -5px;
+    color: #fff;
+}
+
+.moveScene_Humberto_Fernandez_Moran::after {
+    content: "Humberto \A Fernández-Morán";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -15px;
+    color: #fff;
+}
+
+.videoAbeja::after {
+    content: "Video \A Abeja";
+    white-space: pre;
+    display: block;
+    font-size: 16px;
+    height: 20px;
+    margin: 10px 20px 0 -30px;
+    color: #fff;
+}
+
+.inmersiveClass::after {
+    content: "Acceso directo \A     a las salas";
+    white-space: pre;
+    display: block;
+    font-size: 16px;
+    height: 20px;
+    margin: 10px 20px 0 -30px;
+    color: #fff;
+}
+
+.sala_mincyt::after {
+    content: "Exhibición Microscopía \A        MINCYT";
+    white-space: pre;
+    display: block;
+    font-size: 16px;
+    height: 20px;
+    margin: 10px 20px 0 -15px;
+    color: #fff;
+}
+
+.sala_inteligenciada::after {
+    content: "Muro Inteligenciado";
+    white-space: pre;
+    display: block;
+    font-size: 22px;
+    height: 20px;
+    margin: 10px 20px 0 -12px;
+    color: #FFFF00;
+}
+
+.video_robotica::after {
+    content: " Video de \A  Robótica";
+    white-space: pre;
+    display: block;
+    font-size: 16px;
+    height: 20px;
+    margin: 10px 20px 0 -25px;
+    color: red;
+    font-weight: 700;
+}
+
+.video_robotica {
+    #textInfo .hotspot .in {
+        background-color: red !important;
+    }
+}
+
+.sala_inteligenciada {
+    .hotspot {
+        display: none;
+    }
+}
+
+.video_hospot_element_video_juego::after {
+    content: " Videojuego \A      Abeja";
+    white-space: pre;
+    display: block;
+    font-size: 16px;
+    height: 20px;
+    margin: 10px 20px 0 -25px;
+    color: #fff;
+}
+
+.video_hospot_element_cuestionario::after {
+    content: "Cuestionario \A      Abeja";
+    white-space: pre;
+    display: block;
+    font-size: 16px;
+    height: 20px;
+    margin: 10px 20px 0 -25px;
+    color: #fff;
+}
+
+.video_hospot_element_podcast::after {
+    content: "Podcast Abeja";
+    white-space: pre;
+    display: block;
+    font-size: 16px;
+    height: 20px;
+    margin: 10px 20px 0 -25px;
+    color: #fff;
+}
+
+.video_hospot_element_infografia::after {
+    content: "Infografia Abeja";
+    white-space: pre;
+    display: block;
+    font-size: 16px;
+    height: 20px;
+    margin: 10px 20px 0 -25px;
+    color: #fff;
+}
+
+.video_hospot_element::after {
+    content: "  Video Abeja";
+    white-space: pre;
+    display: block;
+    font-size: 16px;
+    height: 20px;
+    margin: 10px 20px 0 -25px;
+    color: #fff;
+}
+
+#textInfo .hotspot .in {
+    width: 25px !important;
+    height: 25px !important;
+    top: 8px !important;
+    left: 8px !important;
+}
+
+#textInfo .hotspot .out {
+    width: 40px !important;
+    height: 40px !important;
+}
+
+@media (max-width: 768px) {
+
+    #textInfo .hotspot .in {
+        width: 15px !important;
+        height: 15px !important;
+        top: 7px !important;
+        left: 8px !important;
+    }
+
+    #textInfo .hotspot .out {
+        width: 30px !important;
+        height: 30px !important;
+    }
+
+    .inmersiveClass::after {
+        font-size: 12px;
+        margin: 5px 20px 0 -22px;
+    }
+
+    .moveScene_Quimica::after {
+        font-size: 12px;
+        margin: 5px 20px 0 -8px;
+    }
+
+    .moveScene_Fisica::after {
+        font-size: 12px;
+        margin: 5px 20px 0 -12px;
+    }
+
+    .moveScene_Robotica::after {
+        font-size: 12px;
+        margin: 5px 20px 0 -20px;
+    }
+
+    .moveScene_Astronauta::after {
+        font-size: 12px;
+        margin: 5px 20px 0 -10px;
+    }
+
+    .moveScene_Satelital::after {
+        font-size: 12px;
+        margin: 5px 20px 0 -15px;
+    }
+
+    .moveScene_Lectura::after {
+        font-size: 12px;
+        margin: 5px 20px 0 -12px;
+    }
+
+    .moveScene_4_Puntos::after {
+        font-size: 12px;
+        margin: 5px 20px 0 -8px;
+    }
+
+    .moveScene_Humberto_Fernandez_Moran::after {
+        font-size: 12px;
+        margin: 5px 20px 0 -7px;
+    }
+}

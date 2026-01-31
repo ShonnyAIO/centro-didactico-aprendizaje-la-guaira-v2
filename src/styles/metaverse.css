@@ -1,0 +1,21 @@
+.digital_microscope {
+    position: fixed;
+    top: 45%;
+    right: 15%;
+    cursor: pointer;
+    z-index: 0;
+
+    model-viewer {
+        width: 280px;
+        height: 280px;
+    }
+}
+
+
+.svg_microscope {
+    position: fixed;
+    top: 60%;
+    right: 20%;
+    cursor: pointer;
+    z-index: 0;
+}
