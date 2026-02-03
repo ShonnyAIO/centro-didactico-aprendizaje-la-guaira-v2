@@ -67,7 +67,7 @@ const Scene = {
             salaMetodologia: {
                 type: 'custom',
                 pitch: -19.022442991863728,
-                yaw: -15.73164594764054,
+                yaw: -16.73164594764054,
                 scene: 'salaMetodologia',
                 cssClass: 'moveScene_Metodologia',
                 url: 'https://framevr.io/tema-2'
