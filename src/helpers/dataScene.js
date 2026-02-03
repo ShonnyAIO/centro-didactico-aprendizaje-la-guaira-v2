@@ -53,7 +53,7 @@ const Scene = {
             labSatelital2: {
                 type: 'custom',
                 pitch: -19.022442991863728,
-                yaw: -48.73164594764054,
+                yaw: -46.73164594764054,
                 scene: 'salaSatelital2',
                 cssClass: 'moveScene_Satelital2'
             },
@@ -74,8 +74,8 @@ const Scene = {
             },
             salaHumbertoFernandezMoran: {
                 type: 'custom',
-                pitch: -19.022442991863728,
-                yaw: 1.73164594764054,
+                pitch: -18.022442991863728,
+                yaw: -1.03164594764054,
                 scene: 'salaHumbertoFernandezMoran',
                 cssClass: 'moveScene_Humberto_Fernandez_Moran',
                 url: 'https://recorrido-microcopico.netlify.app/'
@@ -89,7 +89,7 @@ const Scene = {
             },
             labAstronauta: {
                 type: 'custom',
-                pitch: -17.312151325441558,
+                pitch: -14.812151325441558,
                 yaw: 30.64182743592381,
                 scene: 'labAstronauta',
                 cssClass: 'moveScene_Astronauta'
