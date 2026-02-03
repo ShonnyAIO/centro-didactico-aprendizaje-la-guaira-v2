@@ -74,8 +74,8 @@ const Scene = {
             },
             salaHumbertoFernandezMoran: {
                 type: 'custom',
-                pitch: -20.022442991863728,
-                yaw: 2.73164594764054,
+                pitch: -19.022442991863728,
+                yaw: 1.73164594764054,
                 scene: 'salaHumbertoFernandezMoran',
                 cssClass: 'moveScene_Humberto_Fernandez_Moran',
                 url: 'https://recorrido-microcopico.netlify.app/'
