@@ -57,10 +57,17 @@ const Scene = {
                 scene: 'salaSatelital2',
                 cssClass: 'moveScene_Satelital2'
             },
-            salaMetodologia: {
+            sala4Puntos: {
                 type: 'custom',
                 pitch: -19.022442991863728,
                 yaw: -33.73164594764054,
+                scene: 'sala4Puntos',
+                cssClass: 'moveScene_4_Puntos'
+            },
+            salaMetodologia: {
+                type: 'custom',
+                pitch: -19.022442991863728,
+                yaw: -15.73164594764054,
                 scene: 'salaMetodologia',
                 cssClass: 'moveScene_Metodologia',
                 url: 'https://framevr.io/tema-2'
@@ -68,9 +75,10 @@ const Scene = {
             salaHumbertoFernandezMoran: {
                 type: 'custom',
                 pitch: -20.022442991863728,
-                yaw: -0.73164594764054,
+                yaw: 2.73164594764054,
                 scene: 'salaHumbertoFernandezMoran',
-                cssClass: 'moveScene_Humberto_Fernandez_Moran'
+                cssClass: 'moveScene_Humberto_Fernandez_Moran',
+                url: 'https://recorrido-microcopico.netlify.app/'
             },
             labFisica: {
                 type: 'custom',
@@ -85,13 +93,6 @@ const Scene = {
                 yaw: 30.64182743592381,
                 scene: 'labAstronauta',
                 cssClass: 'moveScene_Astronauta'
-            },
-            sala4Puntos: {
-                type: 'custom',
-                pitch: -24.491834477000747,
-                yaw: 50.57215246925806,
-                scene: 'sala4Puntos',
-                cssClass: 'moveScene_4_Puntos'
             },
             salaMaritima: {
                 type: 'custom',
@@ -165,21 +166,20 @@ const Scene = {
             } */
         }
     },
-    salaHumbertoFernandezMoran: {
+    salaHumbertoFernandezMoran3: {
         title: "Sala Humberto Fernandez Moran",
         image: salaHumbertoFernandezMoran,
         pitch: -5.5016849798283,
         yaw: 170.82113341149753,
         hfov: 125,
         hostSpots: {
-            /*
             salaRecepcion: {
                 type: 'custom',
                 pitch: 0.07912949822960508,
                 yaw: 155.93158239839963,
                 scene: 'salaRecepcion',
                 cssClass: 'moveScene'
-            } */
+            }
         }
     },
     sala4Puntos: {

@@ -166,12 +166,12 @@
 }
 
 .moveScene_Humberto_Fernandez_Moran::after {
-    content: "Humberto \A Fernández-Morán";
+    content: "Humberto \A Fernández \A Morán";
     white-space: pre;
     display: block;
     font-size: 14px;
     height: 20px;
-    margin: 10px 20px 0 -15px;
+    margin: 10px 20px 0 -10px;
     color: #fff;
 }
 
