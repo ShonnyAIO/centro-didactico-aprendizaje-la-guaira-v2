@@ -8,7 +8,7 @@ export default function VideoPlayer() {
         <>
             <div>
                 <PannellumVideo
-                    video={"https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/RECORRIDO_LA_GUAIRA.mp4?alt=media&token=9a0bb43f-96ec-4a33-947a-90734e0af8fd"}
+                    video={"https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/RECORRIDO_LA_GUAIRA.mp4?alt=media&token=e0209f74-cc5c-45ce-bbfe-4f170047efba"}
                     loop
                     width="100%"
                     height="100vh"
