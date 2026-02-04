@@ -115,6 +115,13 @@ const Scene = {
                 scene: 'salaSatelital',
                 cssClass: 'moveScene_Satelital'
             },
+            historiaViva: {
+                type: 'custom',
+                pitch: 2.228855843798286,
+                yaw: 88.25256706470817,
+                url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Historia_Viva_y_Vigente.mp4?alt=media&token=90f3ebec-3035-418f-a304-25aa34858c21',
+                cssClass: 'moveScene_historiaViva'
+            },
             misionArbol: {
                 type: 'info',
                 pitch: -1.9119201728724322,

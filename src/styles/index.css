@@ -165,6 +165,16 @@
     color: #fff;
 }
 
+.moveScene_historiaViva::after {
+    content: "Historia Viva \A y Vigente";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -15px;
+    color: #fff;
+}
+
 .moveScene_Humberto_Fernandez_Moran::after {
     content: "Humberto \A Fernández \A Morán";
     white-space: pre;
