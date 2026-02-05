@@ -118,9 +118,18 @@ const Scene = {
             historiaViva: {
                 type: 'custom',
                 pitch: 2.228855843798286,
-                yaw: 88.25256706470817,
+                yaw: 95.25256706470817,
                 url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Historia_Viva_y_Vigente.mp4?alt=media&token=90f3ebec-3035-418f-a304-25aa34858c21',
                 cssClass: 'moveScene_historiaViva'
+            },
+            gabrielaJimenez: {
+                type: 'custom',
+                pitch: 2.228855843798286,
+                yaw: 75.25256706470817,
+                mode: 'pop-up',
+                cssClass: 'moveScene_GabrielaJimenez',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/GABRIELA_JIMENEZ.jpeg?alt=media&token=93c9bccd-6cbd-4d1e-855c-a6afac7c683e',
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/La_ciencia_con_alma_de_Mujer.mp4?alt=media&token=853283da-c18a-455d-a3b0-7627828e6db4'
             },
             misionArbol: {
                 type: 'info',

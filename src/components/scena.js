@@ -16,6 +16,12 @@ export default function Scene() {
     /* MANEJO DE ESCENAS ANTERIORES */
     const [previosScene, setPreviosScene] = useState([]);
 
+    /* MODAL POP-UP */
+    const [showModal, setShowModal] = useState(false);
+    const [modalLinks, setModalLinks] = useState({ infografia: '', podcast: '' });
+
+    const closeModal = () => setShowModal(false);
+
     const allowSalas = ['moveScene', 'sala_mincyt', 'moveScene_Quimica', 'moveScene_Fisica', 'moveScene_Robotica', 'moveScene_Astronauta', 'moveScene_Satelital', 'moveScene_Satelital2', 'moveScene_Lectura', 'moveScene_4_Puntos', 'moveScene_Humberto_Fernandez_Moran', 'moveScene_Maritima', 'moveScene_Acuatica'];
 
     const updateStyle = () => {
@@ -33,6 +39,23 @@ export default function Scene() {
     }
 
     const hotSpots = (element, i) => {
+
+        if (element.mode === 'pop-up') return (
+            <Pannellum.Hotspot
+                key={i}
+                type={element.type}
+                pitch={element.pitch}
+                yaw={element.yaw}
+                cssClass={element.cssClass}
+                handleClick={() => {
+                    setModalLinks({
+                        infografia: element.urlInfografia,
+                        podcast: element.urlPodcast
+                    });
+                    setShowModal(true);
+                }}
+            />
+        );
 
         if ((element.cssClass === 'hotSpotElement') || (element.cssClass === 'video_hospot_element') || (element.cssClass === 'video_hospot_element_infografia') || (element.cssClass === 'video_hospot_element_podcast') || (element.cssClass === 'video_hospot_element_cuestionario') || (element.cssClass === 'video_hospot_element_video_juego') || (element.cssClass === 'sala_inteligenciada') || (element.cssClass === 'video_robotica') || (element.cssClass === 'moveScene_Metodologia') || (element.cssClass === 'moveScene_recorrido_completo') || (element.cssClass === 'moveScene_Humberto_Fernandez_Moran') || (element.cssClass === 'moveScene_historiaViva')) return (
             <Pannellum.Hotspot
@@ -152,6 +175,27 @@ export default function Scene() {
             }}>
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="icon icon-tabler icons-tabler-outline icon-tabler-reload"><path stroke="none" d="M0 0h24v24H0z" fill="none" /><path d="M19.933 13.041a8 8 0 1 1 -9.925 -8.788c3.899 -1 7.935 1.007 9.425 4.747" /><path d="M20 4v5h-5" /></svg>
             </div>
+
+            {showModal && (
+                <div className="modal-overlay">
+                    <div className="modal-content">
+                        <button className="modal-close" onClick={closeModal}>&times;</button>
+                        <h2 className="modal-title">Gabriela Jiménez Ramírez</h2>
+                        <div className="modal-buttons">
+                            {modalLinks.infografia && (
+                                <a href={modalLinks.infografia} target="_blank" rel="noopener noreferrer" className="modal-btn">
+                                    Infografía
+                                </a>
+                            )}
+                            {modalLinks.podcast && (
+                                <a href={modalLinks.podcast} target="_blank" rel="noopener noreferrer" className="modal-btn">
+                                    Podcast
+                                </a>
+                            )}
+                        </div>
+                    </div>
+                </div>
+            )}
         </>
     );
 }
