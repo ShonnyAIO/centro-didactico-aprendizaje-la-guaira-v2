@@ -179,21 +179,40 @@
     content: "Gabriela \A Jiménez \A Ramírez";
     white-space: pre;
     display: block;
-    font-size: 14px;
+    font-size: 11px;
+    font-weight: 600;
     height: 20px;
-    margin: 10px 20px 0 -5px;
-    color: #fff;
+    margin: 10px 20px 0 -1px;
+    color: #E87F18;
+}
+
+.pnlm-hotspot-base.moveScene_GabrielaJimenez.pnlm-pointer .hotspot .out {
+    border-color: #E87F18 !important;
+}
+
+.pnlm-hotspot-base.moveScene_GabrielaJimenez.pnlm-pointer .hotspot .in {
+    background-color: #E87F18 !important;
 }
 
 .moveScene_NelsonMerentes::after {
     content: " Nelson \A Merentes";
     white-space: pre;
     display: block;
-    font-size: 14px;
+    font-weight: 600;
+    font-size: 11px;
     height: 20px;
-    margin: 10px 20px 0 -2px;
-    color: #fff;
+    margin: 10px 20px 0 -7px;
+    color: #003785;
 }
+
+.pnlm-hotspot-base.moveScene_NelsonMerentes.pnlm-pointer .hotspot .out {
+    border-color: #003785 !important;
+}
+
+.pnlm-hotspot-base.moveScene_NelsonMerentes.pnlm-pointer .hotspot .in {
+    background-color: #003785 !important;
+}
+
 
 .moveScene_Humberto_Fernandez_Moran::after {
     content: "Humberto \A Fernández \A Morán";

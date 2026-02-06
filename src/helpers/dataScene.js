@@ -115,17 +115,18 @@ const Scene = {
                 scene: 'salaSatelital',
                 cssClass: 'moveScene_Satelital'
             },
+            /*
             historiaViva: {
                 type: 'custom',
                 pitch: 2.228855843798286,
                 yaw: 86.25256706470817,
                 url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Historia_Viva_y_Vigente.mp4?alt=media&token=0c2d1045-d8cb-40e5-b0dc-be24e6a94e6f',
                 cssClass: 'moveScene_historiaViva'
-            },
+            }, */
             gabrielaJimenez: {
                 type: 'custom',
-                pitch: 2.228855843798286,
-                yaw: 69.05256706470817,
+                pitch: 7.228855843798286,
+                yaw: 52.05256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_GabrielaJimenez',
                 name: 'Gabriela Jiménez Ramírez',
@@ -134,8 +135,8 @@ const Scene = {
             },
             nelsonMerentes: {
                 type: 'custom',
-                pitch: 2.228855843798286,
-                yaw: 100.05256706470817,
+                pitch: 5.228855843798286,
+                yaw: 116.05256706470817,
                 mode: 'pop-up',
                 name: 'Nelson Merentes',
                 cssClass: 'moveScene_NelsonMerentes',
