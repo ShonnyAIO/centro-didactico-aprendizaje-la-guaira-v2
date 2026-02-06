@@ -125,8 +125,8 @@ const Scene = {
             }, */
             gabrielaJimenez: {
                 type: 'custom',
-                pitch: 7.228855843798286,
-                yaw: 52.05256706470817,
+                pitch: 1.228855843798286,
+                yaw: 137.55256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_GabrielaJimenez',
                 name: 'Gabriela Jiménez Ramírez',
@@ -135,8 +135,8 @@ const Scene = {
             },
             nelsonMerentes: {
                 type: 'custom',
-                pitch: 5.228855843798286,
-                yaw: 116.05256706470817,
+                pitch: 1.228855843798286,
+                yaw: 143.05256706470817,
                 mode: 'pop-up',
                 name: 'Nelson Merentes',
                 cssClass: 'moveScene_NelsonMerentes',

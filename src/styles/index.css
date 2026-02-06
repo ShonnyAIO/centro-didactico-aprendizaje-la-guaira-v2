@@ -176,13 +176,13 @@
 }
 
 .moveScene_GabrielaJimenez::after {
-    content: "Gabriela \A Jiménez \A Ramírez";
+    content: "Gabriela \A Jiménez";
     white-space: pre;
     display: block;
     font-size: 11px;
     font-weight: 600;
     height: 20px;
-    margin: 10px 20px 0 -1px;
+    margin: 10px 20px 0 0px;
     color: #E87F18;
 }
 
@@ -195,13 +195,13 @@
 }
 
 .moveScene_NelsonMerentes::after {
-    content: " Nelson \A Merentes";
+    content: "  Nelson \A Merentes";
     white-space: pre;
     display: block;
     font-weight: 600;
     font-size: 11px;
     height: 20px;
-    margin: 10px 20px 0 -7px;
+    margin: 10px 20px 0 -2px;
     color: #003785;
 }
 
