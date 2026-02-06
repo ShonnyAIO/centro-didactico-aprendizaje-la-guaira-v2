@@ -49,6 +49,7 @@ export default function Scene() {
                 cssClass={element.cssClass}
                 handleClick={() => {
                     setModalLinks({
+                        name: element.name,
                         infografia: element.urlInfografia,
                         podcast: element.urlPodcast
                     });
@@ -180,7 +181,7 @@ export default function Scene() {
                 <div className="modal-overlay">
                     <div className="modal-content">
                         <button className="modal-close" onClick={closeModal}>&times;</button>
-                        <h2 className="modal-title">Gabriela Jiménez Ramírez</h2>
+                        <h2 className="modal-title">{modalLinks.name}</h2>
                         <div className="modal-buttons">
                             {modalLinks.infografia && (
                                 <a href={modalLinks.infografia} target="_blank" rel="noopener noreferrer" className="modal-btn">

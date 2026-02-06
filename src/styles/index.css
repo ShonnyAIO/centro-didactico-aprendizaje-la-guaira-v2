@@ -185,6 +185,16 @@
     color: #fff;
 }
 
+.moveScene_NelsonMerentes::after {
+    content: " Nelson \A Merentes";
+    white-space: pre;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -2px;
+    color: #fff;
+}
+
 .moveScene_Humberto_Fernandez_Moran::after {
     content: "Humberto \A Fernández \A Morán";
     white-space: pre;

@@ -118,18 +118,29 @@ const Scene = {
             historiaViva: {
                 type: 'custom',
                 pitch: 2.228855843798286,
-                yaw: 95.25256706470817,
-                url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Historia_Viva_y_Vigente.mp4?alt=media&token=90f3ebec-3035-418f-a304-25aa34858c21',
+                yaw: 86.25256706470817,
+                url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Historia_Viva_y_Vigente.mp4?alt=media&token=0c2d1045-d8cb-40e5-b0dc-be24e6a94e6f',
                 cssClass: 'moveScene_historiaViva'
             },
             gabrielaJimenez: {
                 type: 'custom',
                 pitch: 2.228855843798286,
-                yaw: 75.25256706470817,
+                yaw: 69.05256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_GabrielaJimenez',
+                name: 'Gabriela Jiménez Ramírez',
                 urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/GABRIELA_JIMENEZ.jpeg?alt=media&token=93c9bccd-6cbd-4d1e-855c-a6afac7c683e',
-                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/La_ciencia_con_alma_de_Mujer.mp4?alt=media&token=853283da-c18a-455d-a3b0-7627828e6db4'
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Ciencia_con_alma__La_visi%C3%B3n_de_Gabriela_Jim%C3%A9nez_Ram%C3%ADrez.mp4?alt=media&token=4c939d51-0690-468a-b5d6-8d5add948d4e'
+            },
+            nelsonMerentes: {
+                type: 'custom',
+                pitch: 2.228855843798286,
+                yaw: 100.05256706470817,
+                mode: 'pop-up',
+                name: 'Nelson Merentes',
+                cssClass: 'moveScene_NelsonMerentes',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Nelson_Merentes.jpeg?alt=media&token=9a8ca843-f6b4-4646-bd17-d15e7005af53',
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/El_Viaje_Matem%C3%A1tico_de_Merentes.mp4?alt=media&token=b9317293-895d-4436-b0db-60a89c531242'
             },
             misionArbol: {
                 type: 'info',
