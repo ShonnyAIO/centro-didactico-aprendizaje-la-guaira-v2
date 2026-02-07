@@ -296,7 +296,7 @@
 }
 
 .historia_viva_e_inteligenciado_la_guaira::after {
-    content: "Historia Viva y \A Vigente de La Guaira";
+    content: "Historia Viva \A de La Guaira";
     white-space: pre;
     font-weight: 600;
     display: block;
@@ -313,7 +313,7 @@
 }
 
 .historia_viva_y_vigente_venezuela::after {
-    content: "Historia Viva y \A Vigente de Venezuela";
+    content: "Historia Viva y Vigente \A        de Venezuela";
     white-space: pre;
     font-weight: 600;
     display: block;
