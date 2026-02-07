@@ -58,7 +58,7 @@ export default function Scene() {
             />
         );
 
-        if ((element.cssClass === 'hotSpotElement') || (element.cssClass === 'video_hospot_element') || (element.cssClass === 'video_hospot_element_infografia') || (element.cssClass === 'video_hospot_element_podcast') || (element.cssClass === 'video_hospot_element_cuestionario') || (element.cssClass === 'video_hospot_element_video_juego') || (element.cssClass === 'sala_inteligenciada') || (element.cssClass === 'video_robotica') || (element.cssClass === 'moveScene_Metodologia') || (element.cssClass === 'moveScene_recorrido_completo') || (element.cssClass === 'moveScene_Humberto_Fernandez_Moran') || (element.cssClass === 'moveScene_historiaViva') || (element.cssClass === 'moveScene_VenturaEchandia') || (element.cssClass === 'infoSpotHistoriaViva')) return (
+        if ((element.cssClass === 'hotSpotElement') || (element.cssClass === 'video_hospot_element') || (element.cssClass === 'video_hospot_element_infografia') || (element.cssClass === 'video_hospot_element_podcast') || (element.cssClass === 'video_hospot_element_cuestionario') || (element.cssClass === 'video_hospot_element_video_juego') || (element.cssClass === 'sala_inteligenciada') || (element.cssClass === 'video_robotica') || (element.cssClass === 'moveScene_Metodologia') || (element.cssClass === 'moveScene_recorrido_completo') || (element.cssClass === 'moveScene_Humberto_Fernandez_Moran') || (element.cssClass === 'moveScene_historiaViva') || (element.cssClass === 'moveScene_VenturaEchandia') || (element.cssClass === 'historia_viva_e_inteligenciado_la_guaira') || (element.cssClass === 'historia_viva_y_vigente_venezuela')) return (
             <Pannellum.Hotspot
                 key={i}
                 type={element.type}

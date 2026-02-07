@@ -117,16 +117,16 @@ const Scene = {
             },
             historiaViva: {
                 type: 'info',
-                pitch: 2.228855843798286,
+                pitch: 2.028855843798286,
                 yaw: 82.55256706470817,
-                text: 'Historia Viva y Vigente',
+                text: 'Historia Viva y Vigente de Venezuela',
                 url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_SIMON_BOLIVAR.mp4?alt=media&token=5dc794ad-9886-4c46-88d0-518528e496e8',
-                cssClass: 'infoSpotHistoriaViva'
+                cssClass: 'infoSpotElement'
             },
             gabrielaJimenez: {
                 type: 'custom',
-                pitch: 10.228855843798286,
-                yaw: 125.55256706470817,
+                pitch: 6.228855843798286,
+                yaw: 131.55256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_GabrielaJimenez',
                 name: 'Gabriela Jiménez',
@@ -140,7 +140,7 @@ const Scene = {
                 mode: 'pop-up',
                 cssClass: 'moveScene_VenturaEchandia',
                 name: 'Ventura Echandía',
-                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/I_need_to_2k_202602070103.jpeg?alt=media&token=f955099b-3a82-4018-89ba-68e08889afeb',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/I_need_to_2k_202602070939.jpeg?alt=media&token=acebf82a-1cb4-4b6e-b9ef-767891e8e9e0',
                 urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Ventura_Echendia.mp4?alt=media&token=bcd5e1a3-0d41-459f-b489-d5572c720e96'
             },
             nelsonMerentes: {
@@ -152,6 +152,18 @@ const Scene = {
                 cssClass: 'moveScene_NelsonMerentes',
                 urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Nelson_Merentes.jpeg?alt=media&token=9a8ca843-f6b4-4646-bd17-d15e7005af53',
                 urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_NELSON_MERENTES.mp4?alt=media&token=c3df6449-ee43-412b-852b-549f43f55214'
+            },
+            historia_viva_e_inteligenciado_la_guaira: {
+                type: 'custom',
+                pitch: 18.228855843798286,
+                yaw: 130.05256706470817,
+                cssClass: 'historia_viva_e_inteligenciado_la_guaira'
+            },
+            historia_viva_y_vigente_venezuela: {
+                type: 'custom',
+                pitch: 35.228855843798286,
+                yaw: 88.05256706470817,
+                cssClass: 'historia_viva_y_vigente_venezuela'
             },
             misionArbol: {
                 type: 'info',

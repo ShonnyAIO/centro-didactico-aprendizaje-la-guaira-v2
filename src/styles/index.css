@@ -273,6 +273,12 @@
     color: #fff;
 }
 
+.sala_inteligenciada {
+    .hotspot {
+        display: none;
+    }
+}
+
 .sala_inteligenciada::after {
     content: "Muro Inteligenciado";
     white-space: pre;
@@ -281,6 +287,40 @@
     height: 20px;
     margin: 10px 20px 0 -12px;
     color: #FFFF00;
+}
+
+.historia_viva_e_inteligenciado_la_guaira {
+    .hotspot {
+        display: none;
+    }
+}
+
+.historia_viva_e_inteligenciado_la_guaira::after {
+    content: "Historia Viva y \A Vigente de La Guaira";
+    white-space: pre;
+    font-weight: 600;
+    display: block;
+    font-size: 16px;
+    height: 20px;
+    margin: 10px 20px 0 -25px;
+    color: #000;
+}
+
+.historia_viva_y_vigente_venezuela {
+    .hotspot {
+        display: none;
+    }
+}
+
+.historia_viva_y_vigente_venezuela::after {
+    content: "Historia Viva y \A Vigente de Venezuela";
+    white-space: pre;
+    font-weight: 600;
+    display: block;
+    font-size: 16px;
+    height: 20px;
+    margin: 10px 20px 0 -25px;
+    color: #000;
 }
 
 .video_robotica::after {
@@ -297,12 +337,6 @@
 .video_robotica {
     #textInfo .hotspot .in {
         background-color: red !important;
-    }
-}
-
-.sala_inteligenciada {
-    .hotspot {
-        display: none;
     }
 }
 
@@ -521,29 +555,4 @@
         opacity: 1;
         transform: scale(1);
     }
-}
-
-.pnlm-hotspot.infoSpotHistoriaViva {
-    background-color: #ff0000 !important;
-    width: 20px !important;
-    height: 20px !important;
-    border-radius: 50% !important;
-    display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
-    cursor: pointer !important;
-}
-
-.pnlm-hotspot.infoSpotHistoriaViva::after {
-    content: "i" !important;
-    color: white !important;
-    font-family: "Times New Roman", Times, serif !important;
-    font-weight: bold !important;
-    font-style: italic !important;
-    font-size: 14px !important;
-    position: static !important;
-    transform: none !important;
-    line-height: normal !important;
-    display: block !important;
 }
