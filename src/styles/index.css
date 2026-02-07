@@ -183,15 +183,34 @@
     font-weight: 600;
     height: 20px;
     margin: 10px 20px 0 0px;
-    color: #E87F18;
+    color: #F7D117;
 }
 
 .pnlm-hotspot-base.moveScene_GabrielaJimenez.pnlm-pointer .hotspot .out {
-    border-color: #E87F18 !important;
+    border-color: #F7D117 !important;
 }
 
 .pnlm-hotspot-base.moveScene_GabrielaJimenez.pnlm-pointer .hotspot .in {
-    background-color: #E87F18 !important;
+    background-color: #F7D117 !important;
+}
+
+.moveScene_VenturaEchandia::after {
+    content: "Ventura \A Echandía";
+    white-space: pre;
+    display: block;
+    font-weight: 600;
+    font-size: 11px;
+    height: 20px;
+    margin: 10px 20px 0 -2px;
+    color: #0033AB;
+}
+
+.pnlm-hotspot-base.moveScene_VenturaEchandia.pnlm-pointer .hotspot .out {
+    border-color: #0033AB !important;
+}
+
+.pnlm-hotspot-base.moveScene_VenturaEchandia.pnlm-pointer .hotspot .in {
+    background-color: #0033AB !important;
 }
 
 .moveScene_NelsonMerentes::after {
@@ -202,15 +221,15 @@
     font-size: 11px;
     height: 20px;
     margin: 10px 20px 0 -2px;
-    color: #003785;
+    color: #CF142B;
 }
 
 .pnlm-hotspot-base.moveScene_NelsonMerentes.pnlm-pointer .hotspot .out {
-    border-color: #003785 !important;
+    border-color: #CF142B !important;
 }
 
 .pnlm-hotspot-base.moveScene_NelsonMerentes.pnlm-pointer .hotspot .in {
-    background-color: #003785 !important;
+    background-color: #CF142B !important;
 }
 
 
@@ -502,4 +521,29 @@
         opacity: 1;
         transform: scale(1);
     }
+}
+
+.pnlm-hotspot.infoSpotHistoriaViva {
+    background-color: #ff0000 !important;
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 50% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    cursor: pointer !important;
+}
+
+.pnlm-hotspot.infoSpotHistoriaViva::after {
+    content: "i" !important;
+    color: white !important;
+    font-family: "Times New Roman", Times, serif !important;
+    font-weight: bold !important;
+    font-style: italic !important;
+    font-size: 14px !important;
+    position: static !important;
+    transform: none !important;
+    line-height: normal !important;
+    display: block !important;
 }

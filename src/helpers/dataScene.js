@@ -115,33 +115,43 @@ const Scene = {
                 scene: 'salaSatelital',
                 cssClass: 'moveScene_Satelital'
             },
-            /*
             historiaViva: {
-                type: 'custom',
+                type: 'info',
                 pitch: 2.228855843798286,
-                yaw: 86.25256706470817,
-                url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Historia_Viva_y_Vigente.mp4?alt=media&token=0c2d1045-d8cb-40e5-b0dc-be24e6a94e6f',
-                cssClass: 'moveScene_historiaViva'
-            }, */
+                yaw: 82.55256706470817,
+                text: 'Historia Viva y Vigente',
+                url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_SIMON_BOLIVAR.mp4?alt=media&token=5dc794ad-9886-4c46-88d0-518528e496e8',
+                cssClass: 'infoSpotHistoriaViva'
+            },
             gabrielaJimenez: {
                 type: 'custom',
-                pitch: 1.228855843798286,
-                yaw: 137.55256706470817,
+                pitch: 10.228855843798286,
+                yaw: 125.55256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_GabrielaJimenez',
-                name: 'Gabriela Jiménez Ramírez',
+                name: 'Gabriela Jiménez',
                 urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/GABRIELA_JIMENEZ.jpeg?alt=media&token=93c9bccd-6cbd-4d1e-855c-a6afac7c683e',
-                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Ciencia_con_alma__La_visi%C3%B3n_de_Gabriela_Jim%C3%A9nez_Ram%C3%ADrez.mp4?alt=media&token=4c939d51-0690-468a-b5d6-8d5add948d4e'
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_GABRIELA_JIMENEZ.mp4?alt=media&token=a8d70ff8-9632-437d-b98e-8ebd973976f4'
+            },
+            venturaEchandia: {
+                type: 'custom',
+                pitch: 5.228855843798286,
+                yaw: 137.55256706470817,
+                mode: 'pop-up',
+                cssClass: 'moveScene_VenturaEchandia',
+                name: 'Ventura Echandía',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/I_need_to_2k_202602070103.jpeg?alt=media&token=f955099b-3a82-4018-89ba-68e08889afeb',
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Ventura_Echendia.mp4?alt=media&token=bcd5e1a3-0d41-459f-b489-d5572c720e96'
             },
             nelsonMerentes: {
                 type: 'custom',
-                pitch: 1.228855843798286,
+                pitch: 5.228855843798286,
                 yaw: 143.05256706470817,
                 mode: 'pop-up',
                 name: 'Nelson Merentes',
                 cssClass: 'moveScene_NelsonMerentes',
                 urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Nelson_Merentes.jpeg?alt=media&token=9a8ca843-f6b4-4646-bd17-d15e7005af53',
-                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/El_Viaje_Matem%C3%A1tico_de_Merentes.mp4?alt=media&token=b9317293-895d-4436-b0db-60a89c531242'
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_NELSON_MERENTES.mp4?alt=media&token=c3df6449-ee43-412b-852b-549f43f55214'
             },
             misionArbol: {
                 type: 'info',
