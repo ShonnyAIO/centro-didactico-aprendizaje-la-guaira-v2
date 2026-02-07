@@ -125,7 +125,7 @@ const Scene = {
             },
             historiaDeLaCiencia: {
                 type: 'info',
-                pitch: 8.228855843798286,
+                pitch: 9.928855843798286,
                 yaw: 123.55256706470817,
                 text: 'Historia Viva de la Ciencia',
                 url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_SIMON_BOLIVAR.mp4?alt=media&token=5dc794ad-9886-4c46-88d0-518528e496e8',
@@ -133,7 +133,7 @@ const Scene = {
             },
             gabrielaJimenez: {
                 type: 'custom',
-                pitch: 6.228855843798286,
+                pitch: 6.828855843798286,
                 yaw: 131.55256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_GabrielaJimenez',
@@ -144,7 +144,7 @@ const Scene = {
             venturaEchandia: {
                 type: 'custom',
                 pitch: 5.928855843798286,
-                yaw: 137.55256706470817,
+                yaw: 138.25256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_VenturaEchandia',
                 name: 'Ventura Echandía',
@@ -163,8 +163,8 @@ const Scene = {
             },
             historia_viva_e_inteligenciado_la_guaira: {
                 type: 'custom',
-                pitch: 19.228855843798286,
-                yaw: 130.05256706470817,
+                pitch: 19.828855843798286,
+                yaw: 133.55256706470817,
                 cssClass: 'historia_viva_e_inteligenciado_la_guaira'
             },
             historia_viva_y_vigente_venezuela: {
