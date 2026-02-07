@@ -128,7 +128,7 @@ const Scene = {
                 pitch: 10.528855843798286,
                 yaw: 122.05256706470817,
                 text: 'Historia Viva \n de la Ciencia',
-                url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_SIMON_BOLIVAR.mp4?alt=media&token=5dc794ad-9886-4c46-88d0-518528e496e8',
+                url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_GABRIELA_JIMENEZ.mp4?alt=media&token=a8d70ff8-9632-437d-b98e-8ebd973976f4',
                 cssClass: 'infoSpotElement'
             },
             gabrielaJimenez: {
