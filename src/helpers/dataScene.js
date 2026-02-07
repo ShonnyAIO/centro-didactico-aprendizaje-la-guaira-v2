@@ -119,13 +119,13 @@ const Scene = {
                 type: 'info',
                 pitch: 2.028855843798286,
                 yaw: 81.55256706470817,
-                text: 'Historia Viva y Vigente \n de Venezuela',
+                text: 'Historia Viva y Vigente de Venezuela',
                 url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_SIMON_BOLIVAR.mp4?alt=media&token=5dc794ad-9886-4c46-88d0-518528e496e8',
                 cssClass: 'infoSpotElement'
             },
             historiaDeLaCiencia: {
                 type: 'info',
-                pitch: 9.928855843798286,
+                pitch: 10.528855843798286,
                 yaw: 122.05256706470817,
                 text: 'Historia Viva \n de la Ciencia',
                 url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_SIMON_BOLIVAR.mp4?alt=media&token=5dc794ad-9886-4c46-88d0-518528e496e8',
