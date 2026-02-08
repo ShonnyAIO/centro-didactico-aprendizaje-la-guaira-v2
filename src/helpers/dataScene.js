@@ -123,6 +123,7 @@ const Scene = {
                 url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_SIMON_BOLIVAR.mp4?alt=media&token=5dc794ad-9886-4c46-88d0-518528e496e8',
                 cssClass: 'infoSpotElement'
             },
+            /*
             historiaDeLaCiencia: {
                 type: 'info',
                 pitch: 10.528855843798286,
@@ -130,7 +131,7 @@ const Scene = {
                 text: 'Historia Viva \n de la Ciencia',
                 url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/GABRIELA_JIMENEZ_VIDEO.mp4?alt=media&token=d6bafbd0-236d-4b50-beb4-1c6ec52992e7',
                 cssClass: 'infoSpotElement'
-            },
+            }, */
             gabrielaJimenez: {
                 type: 'custom',
                 pitch: 6.828855843798286,
