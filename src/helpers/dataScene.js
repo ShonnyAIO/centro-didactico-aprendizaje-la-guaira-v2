@@ -101,7 +101,7 @@ const Scene = {
                 mode: 'pop-up',
                 cssClass: 'moveScene_CesarLeal',
                 name: 'César Leal',
-                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/CESAR_MEJORADO_COMPRIMIDO.png?alt=media&token=0920d50d-6f7e-4e7c-a3c9-489ed9ca652f',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/CESAR_LEAL_COMPRIMIDO.jpeg?alt=media&token=6fa34388-13bd-43a2-a70b-975ffcbf8d46',
                 urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Cesar_Leal.mp4?alt=media&token=614597bd-9a7c-4177-a87f-d27bd5a53010'
             },
             salaMaritima: {
