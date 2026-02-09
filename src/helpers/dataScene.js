@@ -101,7 +101,7 @@ const Scene = {
                 mode: 'pop-up',
                 cssClass: 'moveScene_CesarLeal',
                 name: 'César Leal',
-                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/CESAR_LEAL.jpeg?alt=media&token=6813fcd7-bd66-4ae4-a61c-c039456e52b8',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/CESAR_LEAL_MEJORADO.jpeg?alt=media&token=f9d2b262-812a-4f76-8393-77e0e0ad2d23',
                 urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Cesar_Leal.mp4?alt=media&token=614597bd-9a7c-4177-a87f-d27bd5a53010'
             },
             salaMaritima: {
@@ -174,8 +174,8 @@ const Scene = {
             },
             MarthaBerrotera: {
                 type: 'custom',
-                pitch: 6.528855843798286,
-                yaw: 145.55256706470817,
+                pitch: 7.528855843798286,
+                yaw: 143.55256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_MarthaBerrotera',
                 name: 'Martha Berroteran',
