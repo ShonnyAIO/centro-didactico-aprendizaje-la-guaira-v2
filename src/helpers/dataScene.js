@@ -175,22 +175,22 @@ const Scene = {
             MarthaBerrotera: {
                 type: 'custom',
                 pitch: 7.528855843798286,
-                yaw: 143.55256706470817,
+                yaw: 144.55256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_MarthaBerrotera',
-                name: 'Martha Berroteran',
-                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/MARTHA_BERROTERAN_COMPRESS.jpeg?alt=media&token=5f378299-f89d-4f7b-9634-1ed90263ca78',
+                name: 'Martha Berroterán',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Captura%20desde%202026-02-09%2012-16-09.png?alt=media&token=c9551066-c38e-45c9-99fa-2293821b4a9d',
                 urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Martha_Berroteran.mp4?alt=media&token=98c7a837-d458-448a-af70-51eca35adc4a'
             },
             historia_viva_e_inteligenciado_la_guaira: {
                 type: 'custom',
-                pitch: 27.828855843798286,
+                pitch: 26.828855843798286,
                 yaw: 133.55256706470817,
                 cssClass: 'historia_viva_e_inteligenciado_la_guaira'
             },
             historia_viva_y_vigente_venezuela: {
                 type: 'custom',
-                pitch: 37.828855843798286,
+                pitch: 38.828855843798286,
                 yaw: 88.05256706470817,
                 cssClass: 'historia_viva_y_vigente_venezuela'
             },
