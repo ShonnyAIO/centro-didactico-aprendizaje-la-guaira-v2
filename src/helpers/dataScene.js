@@ -101,7 +101,7 @@ const Scene = {
                 mode: 'pop-up',
                 cssClass: 'moveScene_CesarLeal',
                 name: 'César Leal',
-                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/CESAR_LEAL_MEJORADO.jpeg?alt=media&token=f9d2b262-812a-4f76-8393-77e0e0ad2d23',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/CESAR_LEAL_2_COMPRIMIDO.jpeg?alt=media&token=8bc81260-3d09-4d5e-8e9c-240b12f92fbb',
                 urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Cesar_Leal.mp4?alt=media&token=614597bd-9a7c-4177-a87f-d27bd5a53010'
             },
             salaMaritima: {
@@ -179,7 +179,7 @@ const Scene = {
                 mode: 'pop-up',
                 cssClass: 'moveScene_MarthaBerrotera',
                 name: 'Martha Berroterán',
-                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Captura%20desde%202026-02-09%2012-16-09.png?alt=media&token=c9551066-c38e-45c9-99fa-2293821b4a9d',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/MARTHA_BERROTERAN_2_COMPRESS.jpeg?alt=media&token=f2203ee8-9927-4933-ad66-716b6b2d30da',
                 urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Martha_Berroteran.mp4?alt=media&token=98c7a837-d458-448a-af70-51eca35adc4a'
             },
             historia_viva_e_inteligenciado_la_guaira: {
