@@ -97,7 +97,7 @@ const Scene = {
             cesar_leal: {
                 type: 'custom',
                 pitch: -21.228855843798286,
-                yaw: 52.25256706470817,
+                yaw: 50.25256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_CesarLeal',
                 name: 'César Leal',
