@@ -97,7 +97,7 @@ const Scene = {
             cesar_leal: {
                 type: 'custom',
                 pitch: -21.228855843798286,
-                yaw: 51.75256706470817,
+                yaw: 50.75256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_CesarLeal',
                 name: 'César Leal',
@@ -169,6 +169,16 @@ const Scene = {
                 mode: 'pop-up',
                 cssClass: 'moveScene_VenturaEchandia',
                 name: 'Ventura Echandía',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/I_need_to_2k_202602070939.jpeg?alt=media&token=acebf82a-1cb4-4b6e-b9ef-767891e8e9e0',
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Ventura_Echendia.mp4?alt=media&token=bcd5e1a3-0d41-459f-b489-d5572c720e96'
+            },
+            MarthaBerrotera: {
+                type: 'custom',
+                pitch: 7.728855843798286,
+                yaw: 144.05256706470817,
+                mode: 'pop-up',
+                cssClass: 'moveScene_MarthaBerrotera',
+                name: 'Martha Berrotera',
                 urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/I_need_to_2k_202602070939.jpeg?alt=media&token=acebf82a-1cb4-4b6e-b9ef-767891e8e9e0',
                 urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Ventura_Echendia.mp4?alt=media&token=bcd5e1a3-0d41-459f-b489-d5572c720e96'
             },
