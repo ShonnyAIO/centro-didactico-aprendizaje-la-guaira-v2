@@ -154,8 +154,8 @@ const Scene = {
             },
             venturaEchandia: {
                 type: 'custom',
-                pitch: 5.928855843798286,
-                yaw: 138.25256706470817,
+                pitch: 10.128855843798286,
+                yaw: 135.25256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_VenturaEchandia',
                 name: 'Ventura Echandía',
@@ -164,8 +164,8 @@ const Scene = {
             },
             nelsonMerentes: {
                 type: 'custom',
-                pitch: 5.228855843798286,
-                yaw: 143.05256706470817,
+                pitch: 8.728855843798286,
+                yaw: 140.05256706470817,
                 mode: 'pop-up',
                 name: 'Nelson Merentes',
                 cssClass: 'moveScene_NelsonMerentes',
