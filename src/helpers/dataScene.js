@@ -152,25 +152,25 @@ const Scene = {
                 urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/GABRIELA_JIMENEZ.jpeg?alt=media&token=93c9bccd-6cbd-4d1e-855c-a6afac7c683e',
                 urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_GABRIELA_JIMENEZ.mp4?alt=media&token=a8d70ff8-9632-437d-b98e-8ebd973976f4'
             },
-            venturaEchandia: {
-                type: 'custom',
-                pitch: 10.128855843798286,
-                yaw: 135.25256706470817,
-                mode: 'pop-up',
-                cssClass: 'moveScene_VenturaEchandia',
-                name: 'Ventura Echandía',
-                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/I_need_to_2k_202602070939.jpeg?alt=media&token=acebf82a-1cb4-4b6e-b9ef-767891e8e9e0',
-                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Ventura_Echendia.mp4?alt=media&token=bcd5e1a3-0d41-459f-b489-d5572c720e96'
-            },
             nelsonMerentes: {
                 type: 'custom',
-                pitch: 8.728855843798286,
-                yaw: 140.05256706470817,
+                pitch: 10.128855843798286,
+                yaw: 134.55256706470817,
                 mode: 'pop-up',
                 name: 'Nelson Merentes',
                 cssClass: 'moveScene_NelsonMerentes',
                 urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Nelson_Merentes.jpeg?alt=media&token=9a8ca843-f6b4-4646-bd17-d15e7005af53',
                 urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_NELSON_MERENTES.mp4?alt=media&token=c3df6449-ee43-412b-852b-549f43f55214'
+            },
+            venturaEchandia: {
+                type: 'custom',
+                pitch: 8.728855843798286,
+                yaw: 140.05256706470817,
+                mode: 'pop-up',
+                cssClass: 'moveScene_VenturaEchandia',
+                name: 'Ventura Echandía',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/I_need_to_2k_202602070939.jpeg?alt=media&token=acebf82a-1cb4-4b6e-b9ef-767891e8e9e0',
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Ventura_Echendia.mp4?alt=media&token=bcd5e1a3-0d41-459f-b489-d5572c720e96'
             },
             historia_viva_e_inteligenciado_la_guaira: {
                 type: 'custom',

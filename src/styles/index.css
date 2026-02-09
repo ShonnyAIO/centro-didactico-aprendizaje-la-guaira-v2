@@ -202,15 +202,15 @@
     font-size: 11px;
     height: 20px;
     margin: 10px 20px 0 -2px;
-    color: #0033AB;
+    color: #CF142B;
 }
 
 .pnlm-hotspot-base.moveScene_VenturaEchandia.pnlm-pointer .hotspot .out {
-    border-color: #0033AB !important;
+    border-color: #CF142B !important;
 }
 
 .pnlm-hotspot-base.moveScene_VenturaEchandia.pnlm-pointer .hotspot .in {
-    background-color: #0033AB !important;
+    background-color: #CF142B !important;
 }
 
 .moveScene_NelsonMerentes::after {
@@ -221,15 +221,15 @@
     font-size: 11px;
     height: 20px;
     margin: 10px 20px 0 -2px;
-    color: #CF142B;
+    color: #0033AB;
 }
 
 .pnlm-hotspot-base.moveScene_NelsonMerentes.pnlm-pointer .hotspot .out {
-    border-color: #CF142B !important;
+    border-color: #0033AB !important;
 }
 
 .pnlm-hotspot-base.moveScene_NelsonMerentes.pnlm-pointer .hotspot .in {
-    background-color: #CF142B !important;
+    background-color: #0033AB !important;
 }
 
 .moveScene_CesarLeal::after {
