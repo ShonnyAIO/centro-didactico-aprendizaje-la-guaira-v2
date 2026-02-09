@@ -97,7 +97,7 @@ const Scene = {
             cesar_leal: {
                 type: 'custom',
                 pitch: -21.228855843798286,
-                yaw: 50.75256706470817,
+                yaw: 51.75256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_CesarLeal',
                 name: 'César Leal',
@@ -174,17 +174,17 @@ const Scene = {
             },
             MarthaBerrotera: {
                 type: 'custom',
-                pitch: 7.728855843798286,
-                yaw: 144.05256706470817,
+                pitch: 6.528855843798286,
+                yaw: 145.55256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_MarthaBerrotera',
-                name: 'Martha Berrotera',
-                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/I_need_to_2k_202602070939.jpeg?alt=media&token=acebf82a-1cb4-4b6e-b9ef-767891e8e9e0',
-                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Ventura_Echendia.mp4?alt=media&token=bcd5e1a3-0d41-459f-b489-d5572c720e96'
+                name: 'Martha Berroteran',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/MARTHA_BERROTERAN_COMPRESS.jpeg?alt=media&token=5f378299-f89d-4f7b-9634-1ed90263ca78',
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Martha_Berroteran.mp4?alt=media&token=98c7a837-d458-448a-af70-51eca35adc4a'
             },
             historia_viva_e_inteligenciado_la_guaira: {
                 type: 'custom',
-                pitch: 26.828855843798286,
+                pitch: 27.828855843798286,
                 yaw: 133.55256706470817,
                 cssClass: 'historia_viva_e_inteligenciado_la_guaira'
             },
