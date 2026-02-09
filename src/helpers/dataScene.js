@@ -94,6 +94,16 @@ const Scene = {
                 scene: 'labAstronauta',
                 cssClass: 'moveScene_Astronauta'
             },
+            cesar_leal: {
+                type: 'custom',
+                pitch: -21.228855843798286,
+                yaw: 52.25256706470817,
+                mode: 'pop-up',
+                cssClass: 'moveScene_CesarLeal',
+                name: 'César Leal',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/CESAR_LEAL.jpeg?alt=media&token=6813fcd7-bd66-4ae4-a61c-c039456e52b8',
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Cesar_Leal.mp4?alt=media&token=614597bd-9a7c-4177-a87f-d27bd5a53010'
+            },
             salaMaritima: {
                 type: 'custom',
                 pitch: -21.228855843798286,

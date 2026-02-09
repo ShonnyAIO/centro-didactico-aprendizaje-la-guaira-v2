@@ -232,6 +232,25 @@
     background-color: #CF142B !important;
 }
 
+.moveScene_CesarLeal::after {
+    content: "César \A  Leal";
+    white-space: pre;
+    display: block;
+    font-weight: 600;
+    font-size: 11px;
+    height: 20px;
+    margin: 10px 20px 0 5px;
+    color: #429844;
+}
+
+.pnlm-hotspot-base.moveScene_CesarLeal.pnlm-pointer .hotspot .out {
+    border-color: #429844 !important;
+}
+
+.pnlm-hotspot-base.moveScene_CesarLeal.pnlm-pointer .hotspot .in {
+    background-color: #429844 !important;
+}
+
 
 .moveScene_Humberto_Fernandez_Moran::after {
     content: "Humberto \A Fernández \A Morán";
