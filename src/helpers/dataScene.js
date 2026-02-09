@@ -144,8 +144,8 @@ const Scene = {
             }, */
             gabrielaJimenez: {
                 type: 'custom',
-                pitch: 6.828855843798286,
-                yaw: 131.55256706470817,
+                pitch: 12.528855843798286,
+                yaw: 127.05256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_GabrielaJimenez',
                 name: 'Gabriela Jiménez',
@@ -174,8 +174,8 @@ const Scene = {
             },
             historia_viva_e_inteligenciado_la_guaira: {
                 type: 'custom',
-                pitch: 19.828855843798286,
-                yaw: 133.55256706470817,
+                pitch: 22.828855843798286,
+                yaw: 131.55256706470817,
                 cssClass: 'historia_viva_e_inteligenciado_la_guaira'
             },
             historia_viva_y_vigente_venezuela: {
