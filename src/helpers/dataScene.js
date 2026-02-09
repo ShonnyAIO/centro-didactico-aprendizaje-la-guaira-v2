@@ -174,13 +174,13 @@ const Scene = {
             },
             historia_viva_e_inteligenciado_la_guaira: {
                 type: 'custom',
-                pitch: 34.828855843798286,
+                pitch: 30.828855843798286,
                 yaw: 131.55256706470817,
                 cssClass: 'historia_viva_e_inteligenciado_la_guaira'
             },
             historia_viva_y_vigente_venezuela: {
                 type: 'custom',
-                pitch: 35.828855843798286,
+                pitch: 37.828855843798286,
                 yaw: 88.05256706470817,
                 cssClass: 'historia_viva_y_vigente_venezuela'
             },
