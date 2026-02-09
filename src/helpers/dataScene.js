@@ -97,7 +97,7 @@ const Scene = {
             cesar_leal: {
                 type: 'custom',
                 pitch: -21.228855843798286,
-                yaw: 51.25256706470817,
+                yaw: 51.75256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_CesarLeal',
                 name: 'César Leal',
@@ -174,7 +174,7 @@ const Scene = {
             },
             historia_viva_e_inteligenciado_la_guaira: {
                 type: 'custom',
-                pitch: 28.828855843798286,
+                pitch: 27.828855843798286,
                 yaw: 131.55256706470817,
                 cssClass: 'historia_viva_e_inteligenciado_la_guaira'
             },
