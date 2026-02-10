@@ -179,7 +179,7 @@ const Scene = {
                 mode: 'pop-up',
                 cssClass: 'moveScene_MarthaBerrotera',
                 name: 'Martha Berroterán',
-                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/MARTHA_BERROTERAN.jpeg?alt=media&token=bce2d074-411a-48de-a896-9d6fc2416d75',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/MARTHA_BERROTERAN.mp4?alt=media&token=cf9697a3-0e7b-44c2-8f51-e8778e30d3e8',
                 urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Martha_Berroteran.mp4?alt=media&token=077f8e69-6223-4fd2-bd69-6477607e1ca6'
             },
             historia_viva_e_inteligenciado_la_guaira: {
