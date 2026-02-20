@@ -232,6 +232,25 @@
     background-color: #0033AB !important;
 }
 
+.moveScene_Humberto_Fernandez_Moran_History::after {
+    content: "Humberto \A Fernández \A    Morán";
+    white-space: pre;
+    display: block;
+    font-weight: 600;
+    font-size: 11px;
+    height: 20px;
+    margin: 2px 20px 0 -2px;
+    color: #429844;
+}
+
+.pnlm-hotspot-base.moveScene_Humberto_Fernandez_Moran_History.pnlm-pointer .hotspot .out {
+    border-color: #429844 !important;
+}
+
+.pnlm-hotspot-base.moveScene_Humberto_Fernandez_Moran_History.pnlm-pointer .hotspot .in {
+    background-color: #429844 !important;
+}
+
 .moveScene_CesarLeal::after {
     content: "César \A  Leal";
     white-space: pre;
@@ -363,6 +382,81 @@
     height: 20px;
     margin: 10px 20px 0 -25px;
     color: #000;
+}
+
+.historia_de_la_ciencia::after {
+    content: "Historia Viva \A de la Ciencia";
+    white-space: pre;
+    font-weight: 600;
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    margin: 10px 20px 0 -25px;
+    color: #000;
+}
+
+.historia_de_la_ciencia {
+    .hotspot {
+        display: none;
+    }
+}
+
+.moveScene_CarlosRojas::after {
+    content: " Carlos \A   Rojas";
+    white-space: pre;
+    display: block;
+    font-size: 11px;
+    font-weight: 600;
+    height: 20px;
+    margin: 2px 20px 0 0px;
+    color: #F7D117;
+}
+
+.pnlm-hotspot-base.moveScene_CarlosRojas.pnlm-pointer .hotspot .out {
+    border-color: #F7D117 !important;
+}
+
+.pnlm-hotspot-base.moveScene_CarlosRojas.pnlm-pointer .hotspot .in {
+    background-color: #F7D117 !important;
+}
+
+.moveScene_NoraMalaver::after {
+    content: "   Nora \A  Malaver";
+    white-space: pre;
+    display: block;
+    font-size: 11px;
+    font-weight: 600;
+    height: 20px;
+    margin: 2px 20px 0 0px;
+    color: #0033AB;
+}
+
+.pnlm-hotspot-base.moveScene_NoraMalaver.pnlm-pointer .hotspot .out {
+    border-color: #0033AB !important;
+}
+
+.pnlm-hotspot-base.moveScene_NoraMalaver.pnlm-pointer .hotspot .in {
+    background-color: #0033AB !important;
+}
+
+
+.moveScene_YadiraRangel::after {
+    content: " Yadira \A  Rangel";
+    white-space: pre;
+    display: block;
+    font-size: 11px;
+    font-weight: 600;
+    height: 20px;
+    margin: 2px 20px 0 0px;
+    color: #CF142B;
+}
+
+.pnlm-hotspot-base.moveScene_YadiraRangel.pnlm-pointer .hotspot .out {
+    border-color: #CF142B !important;
+}
+
+.pnlm-hotspot-base.moveScene_YadiraRangel.pnlm-pointer .hotspot .in {
+    background-color: #CF142B !important;
 }
 
 .video_robotica::after {

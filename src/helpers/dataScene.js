@@ -94,6 +94,16 @@ const Scene = {
                 scene: 'labAstronauta',
                 cssClass: 'moveScene_Astronauta'
             },
+            humbertoFernandezMoran: {
+                type: 'custom',
+                pitch: 6.022442991863728,
+                yaw: 53.55256706470817,
+                mode: 'pop-up',
+                cssClass: 'moveScene_Humberto_Fernandez_Moran_History',
+                name: 'Humberto Fernández-Morán',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HUMBERTO_FERNANDEZ_MORAN_AUTENTICO.jpeg?alt=media&token=31bd1073-33b2-44f6-b2dd-b42bf6a57b86',
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HUMBERTO_FERNANDEZ_MORAN.mp4?alt=media&token=31c0c5bc-511c-474f-bdf4-d5b9d87de124'
+            },
             cesar_leal: {
                 type: 'custom',
                 pitch: -21.228855843798286,
@@ -133,15 +143,6 @@ const Scene = {
                 url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HV_SIMON_BOLIVAR.mp4?alt=media&token=5dc794ad-9886-4c46-88d0-518528e496e8',
                 cssClass: 'infoSpotElement'
             },
-            /*
-            historiaDeLaCiencia: {
-                type: 'info',
-                pitch: 10.528855843798286,
-                yaw: 122.05256706470817,
-                text: 'Historia Viva \n de la Ciencia',
-                url: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/GABRIELA_JIMENEZ_VIDEO.mp4?alt=media&token=d6bafbd0-236d-4b50-beb4-1c6ec52992e7',
-                cssClass: 'infoSpotElement'
-            }, */
             gabrielaJimenez: {
                 type: 'custom',
                 pitch: 12.528855843798286,
@@ -193,6 +194,42 @@ const Scene = {
                 pitch: 38.828855843798286,
                 yaw: 88.05256706470817,
                 cssClass: 'historia_viva_y_vigente_venezuela'
+            },
+            historiaDeLaCiencia: {
+                type: 'custom',
+                pitch: 18.58750561631249,
+                yaw: 165.84777120630122,
+                cssClass: 'historia_de_la_ciencia'
+            },
+            carlosRojas: {
+                type: 'custom',
+                pitch: 8.58750561631249,
+                yaw: 155.84777120630122,
+                mode: 'pop-up',
+                cssClass: 'moveScene_CarlosRojas',
+                name: 'Carlos Rojas',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/CARLOS_ROJAS_INFOGRAFIA.jpeg?alt=media&token=f35904f8-ea97-49d8-b559-416f68c7be88',
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/CARLOS_ROJAS.mp4?alt=media&token=f335b1da-1fcd-4ca1-aab3-8ffc62cf07b3'
+            },
+            noraMalaver: {
+                type: 'custom',
+                pitch: 8.58750561631249,
+                yaw: 166.24777120630122,
+                mode: 'pop-up',
+                cssClass: 'moveScene_NoraMalaver',
+                name: 'Nora Malaver',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/INFOGRAFIA_NORA_MALAVER_2.jpeg?alt=media&token=73cbfa11-1ce8-45a1-9d0e-64cb5e6deb13',
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/NORA_MALAVER.mp4?alt=media&token=3d439822-94da-4a93-8c00-74acfcce4d25'
+            },
+            yadiraRangel: {
+                type: 'custom',
+                pitch: 8.58750561631249,
+                yaw: 175.84777120630122,
+                mode: 'pop-up',
+                cssClass: 'moveScene_YadiraRangel',
+                name: 'Yadira Rangel',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/YADIRA_RANGEL_INFOGRAFIA.jpeg?alt=media&token=eb1102be-2df1-4c4b-8f76-4d4b25874f8b',
+                urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/YADIRA_RANGEL.mp4?alt=media&token=4110aa39-f028-4939-b8df-b043ef1e2653'
             },
             misionArbol: {
                 type: 'info',
