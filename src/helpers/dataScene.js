@@ -97,7 +97,7 @@ const Scene = {
             humbertoFernandezMoran: {
                 type: 'custom',
                 pitch: 6.022442991863728,
-                yaw: 53.55256706470817,
+                yaw: 52.55256706470817,
                 mode: 'pop-up',
                 cssClass: 'moveScene_Humberto_Fernandez_Moran_History',
                 name: 'Humberto Fernández-Morán',
@@ -197,8 +197,8 @@ const Scene = {
             },
             historiaDeLaCiencia: {
                 type: 'custom',
-                pitch: 18.58750561631249,
-                yaw: 165.84777120630122,
+                pitch: 16.58750561631249,
+                yaw: 167.84777120630122,
                 cssClass: 'historia_de_la_ciencia'
             },
             carlosRojas: {
@@ -214,7 +214,7 @@ const Scene = {
             noraMalaver: {
                 type: 'custom',
                 pitch: 8.58750561631249,
-                yaw: 166.24777120630122,
+                yaw: 170.24777120630122,
                 mode: 'pop-up',
                 cssClass: 'moveScene_NoraMalaver',
                 name: 'Nora Malaver',
@@ -223,8 +223,8 @@ const Scene = {
             },
             yadiraRangel: {
                 type: 'custom',
-                pitch: 8.58750561631249,
-                yaw: 175.84777120630122,
+                pitch: 7.88750561631249,
+                yaw: 183.84777120630122,
                 mode: 'pop-up',
                 cssClass: 'moveScene_YadiraRangel',
                 name: 'Yadira Rangel',
