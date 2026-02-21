@@ -101,7 +101,7 @@ const Scene = {
                 mode: 'pop-up',
                 cssClass: 'moveScene_Humberto_Fernandez_Moran_History',
                 name: 'Humberto Fernández-Morán',
-                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HUMBERTO_FERNANDEZ_MORAN_AUTENTICO.jpeg?alt=media&token=31bd1073-33b2-44f6-b2dd-b42bf6a57b86',
+                urlInfografia: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/Humberto%20Fern%C3%A1ndez-Mor%C3%A1n_Infografia.png?alt=media&token=78c7fc0b-99d8-4cc5-b50b-4fce3d3eb212',
                 urlPodcast: 'https://firebasestorage.googleapis.com/v0/b/chat-153ee.appspot.com/o/HUMBERTO_FERNANDEZ_MORAN.mp4?alt=media&token=31c0c5bc-511c-474f-bdf4-d5b9d87de124'
             },
             cesar_leal: {
