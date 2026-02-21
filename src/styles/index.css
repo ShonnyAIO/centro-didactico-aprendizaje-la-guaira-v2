@@ -385,7 +385,7 @@
 }
 
 .historia_de_la_ciencia::after {
-    content: "Historia Viva de la Ciencia";
+    content: "Historia Viva \A de la Ciencia";
     white-space: pre;
     font-weight: 600;
     display: block;
